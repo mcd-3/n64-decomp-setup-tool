@@ -1,0 +1,15 @@
+# Super Mario 64
+# Supported Versions: us, jp, eu, sh, cn
+sm64_version=us
+
+# The Legend of Zelda: Ocarina of Time
+# Supported Versions: gc-eu-mq-dbg
+oot_version=gc-eu-mq-dbg
+
+# Paper Mario
+# Supported Versions: us. ique
+papermario_version=us
+
+# Banjo-Kazooie
+# Supported Versions: us10
+banjo1_version=us10

@@ -1,0 +1,16 @@
+### Repository list
+### This list is used by the "clone.sh" script to clone the decompilation projects.
+### To change the project url to clone from, change the link after the '=' symbol for each
+###   project you wish to clone from.
+
+# Super Mario 64
+sm64=https://github.com/n64decomp/sm64.git
+
+# The Legend of Zelda: Ocarina of Time
+oot=https://github.com/zeldaret/oot.git
+
+# Paper Mario
+papermario=https://github.com/pmret/papermario.git
+
+# Banjo-Kazooie
+banjo1=https://gitlab.com/banjo.decomp/banjo-kazooie.git
